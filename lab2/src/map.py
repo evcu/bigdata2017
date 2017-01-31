@@ -33,14 +33,16 @@ for line in sys.stdin:
 
 	#If this is an entry in matrix A...
 	if (entry[0] == "A"):
-		
 		#Generate the necessary key-value pairs
  		#(your code goes here)
-
+ 		for i in xrange(p):
+ 			print '%d %d\t%s %d %f' % (row,i,'A',col,value)
 
 	
 	#Otherwise, if this is an entry in matrix B...
 	else:
+		 for i in xrange(m):
+ 			print '%d %d\t%s %d %f' % (i,col,'B',row,value)
 		
 		#Generate the necessary key-value pairs
  		#(your code goes here)

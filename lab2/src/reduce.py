@@ -6,14 +6,14 @@
 
 import sys
 import string
-import numpy
+import numpy as np
 
 #number of columns of A/rows of B
 n = int(sys.argv[1]) 
 
 #Create data structures to hold the current row/column values (if needed; your code goes here)
-
-
+a = np.zeros(n)
+b = np.zeros(n)
 
 currentkey = None
 
@@ -27,14 +27,17 @@ for line in sys.stdin:
 	key, value = line.split('\t',1)
 
 	#Parse key/value input (your code goes here)
-
-
-
-
-
+	values = value.split()
+	if values[0] == 'A':
+		current_mem = a
+	elif values[0] == 'B':
+		current_mem = b
+	else:
+		error('Something is wrong at parsing')
+	i , v = int(values[1]), float(values[2])
 	#If we are still on the same key...
 	if key==currentkey:
-
+		current_mem[i] = v
 		#Process key/value pair (your code goes here)
 
 
@@ -45,19 +48,16 @@ for line in sys.stdin:
 	else:
 		#If this is a new key and not the first key we've seen
 		if currentkey:
-
+			print '%s\t%s' % (currentkey, np.dot(a,b))
 			#compute/output result to STDOUT (your code goes here)
-	
-
-
-	
+		a[:] = 0
+		b[:] = 0
+		current_mem[i] = v
 		currentkey = key
 		
 		#Process input for new key (your code goes here)
 
-
-
-
+print '%s\t%s' % (currentkey, np.dot(a,b))
 #Compute/output result for the last key (your code goes here)
 
 
