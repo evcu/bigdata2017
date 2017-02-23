@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import sys
 
 c_key = float('-inf')
 c_sum = 0

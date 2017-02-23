@@ -2,7 +2,7 @@
 import os
 import sys
 
-for l in sys.stdin:
+for line in sys.stdin:
 	entry = line.strip().split(",")
 	inp_file = os.environ.get(mapreduce_map_input_file)
 	if 'parking' in inp_file:
