@@ -12,3 +12,4 @@ for line in sys.stdin:
 			print '%s\t%d' %(c_key,c_sum)
 		c_key = key
 		c_sum = 1
+print '%s\t%d' %(c_key,c_sum)

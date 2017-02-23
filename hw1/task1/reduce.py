@@ -9,3 +9,4 @@ for line in sys.stdin:
 		flag = False
 	elif not value:
 		flag = True
+		
