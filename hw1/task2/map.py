@@ -2,6 +2,6 @@
 import os
 import sys
 
-for l in sys.stdin:
+for line in sys.stdin:
 	entry = line.strip().split(",")
 	print '%s\t%d' % (entry[2],1)
