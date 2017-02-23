@@ -8,6 +8,6 @@ for line in sys.stdin:
 	if 'parking' in inp_file:
 		print '%s\t%s, %s, %s, %s' % (entry[0],entry[14],entry[6],entry[2],entry[1])
 	elif 'open' in inp_file:
-		print '%s\t' % entry[0]
+		print '%s\t%s' % (entry[0],'o')
 	else:
 		raise 'CUSTOMMMMMMMError'
