@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import sys
 
-flag = False
+flag = True
 c_key = -1
 c_val = ''
 for line in sys.stdin:
@@ -10,10 +10,10 @@ for line in sys.stdin:
 		if flag and c_val:
 			print c_val
 		c_val = ''
-		flag = False
+		flag = True
 		c_key = key
 	if value == 'o':
-		flag = True
+		flag = False
 	else:
 		c_val = value
 if flag and c_val:
