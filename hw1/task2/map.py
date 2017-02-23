@@ -2,6 +2,6 @@
 import os
 import sys
 
-for line in sys.stdin:
-	entry = line.strip().split(",")
+for entry in  csv.reader(sys.stdin, quotechar='"', delimiter=',',
+               quoting=csv.QUOTE_ALL, skipinitialspace=True):
 	print '%s\t%d' % (entry[2],1)
