@@ -15,6 +15,6 @@ for line in sys.stdin:
 	if value == 'o':
 		flag = False
 	else:
-		c_val = value
+		c_val = line.strip()
 if flag and c_val:
 	print c_val
