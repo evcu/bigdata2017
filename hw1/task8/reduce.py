@@ -12,5 +12,5 @@ for line in sys.stdin:
 		if c_key != float('-inf'):
 			print '%s\t%d' %(c_key,c_sum)
 		c_key = key
-		c_sum = 1
+		c_sum = value
 print '%s\t%d' %(c_key,c_sum)
