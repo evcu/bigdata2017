@@ -13,5 +13,5 @@ for line in sys.stdin:
 		if c_key != float('-inf'):
 			print '%s\t%.2f %.2f' %(c_key,c_acc[0],c_acc[0]/c_acc[1])
 		c_key = key
-		c_sum = [float(vals[0]),int(vals[1])]
+		c_acc = [float(vals[0]),int(vals[1])]
 print '%s\t%.2f %.2f' %(c_key,c_acc[0],c_acc[0]/c_acc[1])
