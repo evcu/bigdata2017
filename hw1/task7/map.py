@@ -4,7 +4,7 @@ import sys
 import csv 
 
 d = {}
-weekend_days = {5,6,12,13,19,20,26,27}
+weekend_days = set([5,6,12,13,19,20,26,27])
 
 for entry in  csv.reader(sys.stdin, quotechar='"', delimiter=',',
                quoting=csv.QUOTE_ALL, skipinitialspace=True):
