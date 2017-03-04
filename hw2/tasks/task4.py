@@ -20,6 +20,6 @@ if __name__ == "__main__":
 
     vials = file1.map(mapper)
 
-    res = vials.reduceBykey(add).map(lambda x: '%s\t%d'% x)
+    res = vials.reduceByKey(add).map(lambda x: '%s\t%d'% x)
     res.saveAsTextFile("task4.out")
     sc.stop()
