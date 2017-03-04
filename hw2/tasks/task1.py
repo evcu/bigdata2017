@@ -15,6 +15,5 @@ if __name__ == "__main__":
 
     vials = file1.map(lambda entry: (entry[0],'%s, %s, %s, %s' % (entry[14],entry[6],entry[2],entry[1])))
     opens = file2.map(lambda entry: (entry[0],'NotPaid'))
-    vials.subtractByKey(opens).saveAsTextFile("task1.out")
-
+    vials.subtractByKey(opens).map(lambda e: e.join('\t')).saveAsTextFile("task1.out")
     sc.stop()
