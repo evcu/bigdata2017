@@ -20,6 +20,6 @@ if __name__ == "__main__":
         return '%s\t%.2f, %.2f' % (v[0],we/8.0,wd/23.0)
 
     res.saveAsTextFile("task7.out")
-        sc.stop()
+    sc.stop()
 
 
