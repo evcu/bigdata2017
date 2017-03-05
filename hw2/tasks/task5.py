@@ -13,13 +13,10 @@ if __name__ == "__main__":
     file1 = sc.textFile(sys.argv[1], 1).mapPartitions(lambda x: reader(x))
 
     def mapper(e):
-        if e[16] != 'NY':
-            return ('OTHER',1)
-        else:
-            return ('NY',1)
+        return ('%s, %s' % (e[14],e[16]) , 1)
 
     vials = file1.map(mapper)
 
-    res = vials.reduceBykey(add).map(lambda x: '%s\t%d'% x)
-    res.saveAsTextFile("task4.out")
+    res = vials.reduceByKey(add).sortBy(lambda x: x[1],False).map(lambda x: '%s\t%d'% x).first()
+    res.saveAsTextFile("task5.out")
     sc.stop()

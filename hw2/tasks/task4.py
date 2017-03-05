@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
     def mapper(e):
         if e[16] != 'NY':
-            return ('OTHER',1)
+            return ('Other',1)
         else:
             return ('NY',1)
 
