@@ -14,15 +14,13 @@ if __name__ == "__main__":
     sc = SparkContext()
     file1 = sc.textFile(sys.argv[1], 1).mapPartitions(lambda x: reader(x))
 
-    def f1(e):
-        return int(e[1].split('-')[-1]) in  weekend_days
+    def mapper(k,v):
+        we = sum()/8.0
+        wd = (len(v)-we)/23.0
+        return '%.2f, %.2f' % (we,ws)
 
-    def f2(e):
-        return int(e[1].split('-')[-1]) not in  weekend_days
-
-    we = file1.filter(f1).map(lambda e:(e[2] , 1.0)).groupByKey().map(lambda (x,v): (x,len(v)/8.0))
-    wd = file1.filter(f2).map(lambda e:(e[2] , 1.0)).groupByKey().map(lambda (x,v): (x,len(v)/23.0))
-    res = we.join(wd).map(lambda (k,v):'%s\t%.2f, %.2f' % (k,v[0],v[1]))
+    res = file1.map(lambda e:(e[2] , int(e[1].split('-')[-1]) in  weekend_days)).groupByKey().map(mapper)
     res.saveAsTextFile("task7.out")
     sc.stop()
+
 
