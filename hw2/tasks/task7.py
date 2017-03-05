@@ -16,11 +16,11 @@ if __name__ == "__main__":
 
     def mapper1(e):
         if int(e[1].split('-')[-1]) in  weekend_days:
-            return (entry[2] , 1.0)
+            return (e[2] , 1.0)
 
     def mapper2(e):
         if int(e[1].split('-')[-1]) not in  weekend_days:
-            return (entry[2] , 1.0)
+            return (e[2] , 1.0)
 
     we = file1.map(mapper1).groupByKey().map(lambda (x,v): (x,len(v)/8.0))
     wd = file1.map(mapper2).groupByKey().map(lambda (x,v): (x,len(v)/23.0))
