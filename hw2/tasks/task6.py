@@ -18,5 +18,5 @@ if __name__ == "__main__":
     vials = file1.map(mapper)
 
     res = vials.reduceByKey(add).sortBy(lambda x: x[1],False).map(lambda x: '%s\t%d'% x).zipWithIndex().filter(lambda x: x[1]<20).map(lambda x: x[0])
-    sc.parallelize(res).saveAsTextFile("task6.out")
+    res.saveAsTextFile("task6.out")
     sc.stop()
