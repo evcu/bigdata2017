@@ -1,0 +1,452 @@
+The '''[[Barclays Center]]''' is an [[arena|indoor arena]] in [[Brooklyn]], [[New York City]] opened in September 2012. With a maximum capacity of 15,813 to 19,000 depending on the event, the arena is used for sporting events such as basketball and is the host of the [[NBA|NBA's]] [[Brooklyn Nets]], as well as ice hockey. The Barclays Center is also more predominantly used as a music venue, hosting multiple concerts, festivals and award ceremonies since its opening. The following is a complete list of all concerts and music events that have been or will be held at the arena.
+
+== Concerts ==
+
+=== 2012 ===
+{| class="wikitable" cellpadding="3" style="text-align: left; font-size: 95%;" width=100%
+|-
+! width=9% style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Date
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Main performer(s)
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tour / Concert name
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tickets sold
+! width=30% style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Additional notes
+|-
+| September 28 || rowspan=8| [[Jay-Z]]<ref name="bb1">{{cite journal|date=1 December 2012|title=Billboard Boxscore|journal=Billboard|volume=124|issue=45|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=25 November 2012|url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archiveurl=http://www.webcitation.org/6CS4Sdr1s?url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archivedate=26 November 2012}}</ref> || rowspan=8|Jay-Z at Barclays Center || rowspan=8 align=center|121,058 / 121,058 (100%) || <small>First public event at Barclays Center.<ref>[http://www.billboard.com/articles/columns/the-juice/474860/jay-z-pays-homage-to-brooklyn-at-first-barclays-center-show Jay-Z Pays Homage to Brooklyn at First Barclays Center Show]</ref></small>
+|-
+| September 29 || 
+|-
+| September 30 || 
+|-
+| October 1 || 
+|-
+| October 3 || 
+|-
+| October 4 || 
+|-
+| October 5|| 
+|-
+| October 6 || <small>''[[Live in Brooklyn (EP)|Live in Brooklyn]]'' EP released.<ref>[http://www.rollingstone.com/music/news/jay-z-to-release-live-in-brooklyn-ep-20121006 Jay-Z to Release 'Live in Brooklyn' EP]</ref> Jay-Z was joined by [[Beyoncé Knowles|Beyoncé]] onstage.<ref>{{cite web|url=http://www.mtv.com/news/articles/1695074/beyonce-jay-z-barclays-center-finale-show.jhtml|title=Jay-Z Gets Beyonce To Grace Stage For Barclays Center Finale|work=MTV News|first=Rob|last=Markman|date=October 6, 2012|accessdate=January 22, 2014}}</ref></small>
+|-
+| October 11 || rowspan=2| [[Barbra Streisand]]<ref name="bb1"/> || rowspan=2|[[Barbra Live]] || rowspan=2 align=center|31,176 / 31,176 (100%) || rowspan=2|<small>Special guests: [[Il Volo]], [[Chris Botti]] and [[Jason Gould]].<ref>[http://www.nydailynews.com/new-york/brooklyn/streisand-babulous-barclays-center-article-1.1181488 Barbra Streisand returns home to Brooklyn to play at Barclays Center 50 years after leaving borough to chase fame]</ref></small>
+|-
+| October 13
+|-
+| October 14 ||  [[Kirk Franklin]],  [[Marvin Sapp]],<br> [[Donnie McClurkin]],  [[Israel Houghton]]<ref name="bb1"/> || The King's Men Tour || align=center|10,471 / 12,625 (83%) || 
+|-
+| October 22 ||  [[Rush (band)|Rush]]<ref name="bb6"/> || [[Clockwork Angels Tour]] || align=center|9,904 / 10,815 (92%) ||
+|-
+| October 26 || {{show|Performers|Mr. White<br>[[Dennis Ferrer]]<br>[[Fedde le Grand]]<br>[[Joris Voorn]]<br>Nic Fanciulli}} || rowspan=2|[[Sensation (event)|Sensation]]<ref name="bb1"/><ref>[http://www.barclayscenter.com/news/detail/sensation-reveals-the-lineup-for-its-first-north-american-shows Sensation reveals the lineup for its first North American Shows]</ref>  || rowspan=2 align=center|22,509 / 24,542 (92%) ||
+|-
+| October 27 || {{show|Performers|Mr. White<br>[[Danny Tenaglia]]<br>Fedde le Grand<br>2000 and one<br>Mark Knight}}
+|-
+| November 12 ||  [[Justin Bieber]]<ref name="bb2">{{cite journal|date=24 November 2012|title=Billboard Boxscore|journal=Billboard|volume=124|issue=44|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=15 November 2012|url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archiveurl=http://www.webcitation.org/6CD4mh2zH?url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archivedate=16 November 2012}}</ref> || [[Believe Tour]] || align=center|14,261 / 14,261 (100%) ||
+|-
+| November 14 ||  [[The Who]]<ref name="bb7">{{cite web|url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp |title=Billboard Boxscore |last=Allen |first=Bob |work=[[Billboard (magazine)|Billboard]] |date=5 January 2010 |accessdate=29 December 2012 |deadurl=unfit |archiveurl=http://www.webcitation.org/6DHZCTuLX?url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp |archivedate=December 29, 2012 }}</ref> || [[The Who Tour 2012–2013]] || align=center|11,567 / 11,624 (~100%) ||
+|-
+| November 21 ||  [[Bob Dylan]],  [[Mark Knopfler]]<ref name="bb8">{{cite web|url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp |title=Billboard Boxscore |date=15 November 2012 |publisher=Prometheus Global Media |work=Billboard |accessdate=16 November 2012 |deadurl=unfit |archiveurl=http://www.webcitation.org/6Cw4oB1Zq?url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp |archivedate=December 15, 2012 }}</ref> || [[Never Ending Tour 2012]] || align=center|9,679 / 10,931 (89%) ||
+|-
+| November 24 ||  [[Juan Luis Guerra]],  [[Juanes]]<ref name="bb8"/> || — || align=center|6,803 / 9,712 (70%) ||
+|-
+| December 3 ||  [[Neil Young]],  [[Crazy Horse (band)|Crazy Horse]]<ref name="bb8"/> || Psychedelic Pill Tour || align=center|8,879 / 8,879 (100%) || 
+|-
+| December 5 ||  [[Andrea Bocelli]]<ref name="bb8"/> || US Fall Tour || align=center|13,275 / 13,275 (100%) ||
+|-
+| December 8 ||  [[The Rolling Stones]]<ref name="bb3">{{cite journal|date=19 January 2013|title=Billboard Boxscore|journal=Billboard|volume=125|issue=2|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=13 January 2013|url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archiveurl=http://www.webcitation.org/6Decq60gb?url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archivedate=14 January 2013}}</ref> || [[50 & Counting]] || align=center|14,471 / 14,471 (100%) || <small>Special guests: [[Mary J. Blige]] and [[Gary Clark, Jr.]]<ref>[https://www.nytimes.com/2012/12/10/arts/music/the-rolling-stones-at-barclays-center.html?_r=0 Well-Worn Sound, With Unrelenting Swagger]</ref></small>
+|-
+| December 10 ||  [[The Smashing Pumpkins]]<ref name="bb7"/> || — || align=center|4,447 / 6,557 (68%) || <small>Postponed from October 31 due to [[Hurricane Sandy]].<ref>[http://www.mtvhive.com/2012/12/11/smashing-pumpkins-barclays-brooklyn-photos/#/0 Smashing Pumpkins Make Up for Missed Halloween Show at Barclays — Photos ]</ref></small>
+|-
+| December 12 || {{show|Performers|[[Beres Hammond]]<br>[[UB40]]<br>[[Maxi Priest]]<br>[[Shaggy (musician)|Shaggy]]}} || Sounds of Reggae<ref name="bb7"/>  || align=center|6,647 / 8,808 (75%) ||
+|-
+| December 17 || {{show|Performers|[[Slick Rick]]<br>[[Mr. Vegas]]<br>[[Morgan Heritage]]<br>[[Doug E. Fresh]]<br>[[Machel Montano]]<br>[[Cham (singer)|Cham]]<br>[[Alison Hinds]]}} || Caribbean Fever Music Festival<ref name="bb4">{{cite journal|date=16 February 2013|title=Billboard Boxscore|journal=Billboard|volume=125|issue=2|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=16 April 2014|url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp}}</ref><ref>[http://www.barclayscenter.com/events/detail/caribbean-fever-music-festival Caribbean Fever Music Festival 2012]</ref> || align=center|4,251 / 4,732 (90%)
+|-
+| December 20 ||  [[Leonard Cohen]]<ref name="bb6">{{cite journal|date=2 February 2013|title=Billboard Boxscore|journal=Billboard|volume=125|issue=4|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=26 January 2013|url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archiveurl=http://www.webcitation.org/6DxZ4kLPU?url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archivedate=26 January 2013}}</ref> || [[Old Ideas World Tour]] || align=center|9,540 / 9,540 (100%) ||
+|-
+| December 21 ||  [[Dave Matthews Band]]<ref name="bb5">{{cite journal|date=5 January 2013|title=Billboard Boxscore|journal=Billboard|volume=124|issue=51|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=7 January 2013|url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archiveurl=http://www.freezepage.com/1357566049IANLXYVBOK?url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp|archivedate=7 January 2013}}</ref> || 2012 Winter Tour || align=center|15,432 / 15,432 (100%) ||
+|-
+| December 30 ||  [[Coldplay]]<ref name="bb3"/> || rowspan=2|[[Mylo Xyloto Tour]] || align=center|16,014 / 16,014 (100%) ||
+|-
+| December 31 || Coldplay, Jay-Z<ref name="bb3"/> || align=center|16,105 / 16,105 (100%) || 
+|}
+
+=== 2013 ===
+{| class="wikitable" cellpadding="3" style="text-align: left; font-size: 95%;" width=100%
+|-
+! width=9% style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Date
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Main performer(s)
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tour / Concert name
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tickets sold
+! width=25% style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Additional notes
+|-
+| February 6 || rowspan=2| [[Mumford & Sons]]<ref name="bb10"/> || rowspan=2|[[Mumford & Sons: World Tour]] || rowspan=2 align=center|29,605 / 29,605 (100%) || 
+|-
+| February 12 || 
+|-
+| February 15 || rowspan=2| [[Marc Anthony]] || rowspan=2|[[Vivir Mi Vida World Tour]] || rowspan=2 align=center|20,483 / 20,483 (100%) || 
+|-
+| February 16 ||
+|-
+| March 2 || rowspan=3| [[Swedish House Mafia]]<ref name="bb10">{{cite web|archiveurl=http://www.webcitation.org/6Fbwf6GfH?url=http://www.billboard.com/biz/current-boxscore|archivedate=April 3, 2013 |url=http://www.billboard.com/biz/current-boxscore|title=Billboard Biz: Current Boxscore|date=April 3, 2013 |accessdate=April 3, 2013 |work=Billboard|publisher=Prometheus Global Media}}</ref> || rowspan=3|[[One Last Tour]] || rowspan=3 align=center|42,645 / 42,645 (100%) || 
+|-
+| March 3 ||
+|-
+| March 4 ||
+|-
+| April 5 ||  [[Alicia Keys]]<ref name="bb11"/> || [[Set the World on Fire Tour]] || align=center|14,061 / 14,061 (100%) ||
+|-
+| April 7 ||  [[Green Day]]<ref name="bb11"/> || [[99 Revolutions Tour]] || align=center|14,487 / 14,487 (100%) || <small>Postponed from January 16.</small>
+|-
+| April 16 ||  [[Bob Seger|Bob Seger & The Silver Bullet Band]]<ref name="bb11"/> || 2013 Tour || align=center|8,199 / 12,018 (68%)||
+|-
+| May 5 || rowspan=2| [[Rihanna]]<ref name="bb11">{{cite web|archiveurl=http://www.webcitation.org/6Gob4bjvq?url=http://www.billboard.com/biz/current-boxscore|archivedate=May 22, 2013|url=http://www.billboard.com/biz/current-boxscore|title=Billboard Biz: Current Boxscore|date=May 22, 2013|accessdate=May 22, 2013|work=Billboard|publisher=Prometheus Global Media}}</ref> || rowspan=2|[[Diamonds World Tour]] || rowspan=2 align=center|29,072 / 29,072 (100%) ||
+|-
+| May 7 || <small>Postponed from May 4 due to [[2013 NBA Playoffs#(4) Brooklyn Nets vs. (5) Chicago Bulls|NBA Playoffs]].<ref>{{cite web|url=http://thebrooklyngame.com/game-7-time-on-saturday-dependent-on-warriorsnuggets-outcome-rihanna-concert-moved/|title=Rihanna’s Barclays Center concert rescheduled for Nets-Bulls Game 7, game time still unclear|publisher=The Brooklyn Game|author=William Rausch|date=May 3, 2013|accessdate=May 3, 2013}}</ref></small>
+|-
+| May 18 ||  [[The Killers]]<ref name="bb14"/> || [[Battle Born World Tour]] || align=center|14,008 / 14,008 (100%) ||
+|-
+| June 5 ||  [[The National (band)|The National]]<ref name="bb14"/> || 2013 Tour || align=center|11,532 / 13,472 (86%) ||
+|-
+| June 8 || rowspan=2| [[Paul McCartney]]<ref name="bb13">{{cite journal|date=6 July 2013|title=Billboard Boxscore|journal=Billboard|volume=125|issue=26|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=26 June 2013|url=http://www.billboard.com/biz/current-boxscore|archiveurl=http://www.webcitation.org/6HgFezPro?url=http://www.billboard.com/biz/current-boxscore|archivedate=27 June 2013}}</ref> || rowspan=2|[[Out There! Tour]] || rowspan=2 align=center|29,898 / 29,898 (100%) ||
+|-
+| June 10 ||
+|-
+| June 14 || rowspan=2| [[The Postal Service]]<ref name="bb14">{{cite journal|date=29 June 2013|title=Billboard Boxscore|journal=Billboard|volume=125|issue=25|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=21 June 2013|url=http://www.billboard.com/biz/current-boxscore|archiveurl=http://www.webcitation.org/6HXAG9Dx9?url=http://www.billboard.com/biz/current-boxscore|archivedate=21 June 2013}}</ref> || rowspan=2|2013 Tour || rowspan=2 align=center|23,331 / 26,630 (88%) ||
+|-
+| June 15 ||
+|-
+| June 16 ||  [[New Kids on the Block]],<br> [[98 Degrees]],  [[Boyz II Men]]<ref name="bb14"/> || [[The Package Tour]] || align=center|8,880 / 9,846 (90%) || 
+|-
+| June 29 ||  [[Bruno Mars]]<ref name="bb15">[http://web.archive.org/web/20130923071315/http://www.billboard.com/biz/current-boxscore]</ref> || [[The Moonshine Jungle Tour]] || align=center|15,204 / 15,204 (100%) ||
+|-
+| July 11 ||  [[Furthur (band)|Furthur]]<ref name="bb9"/> ||2013 Tour || align=center|8,858 / 9,450 (94%) ||
+|-
+| August 2 ||  Justin Bieber<ref name="bb18">{{cite journal|date=31 August 2013|title=Billboard Boxscore|journal=Billboard|volume=125|issue=34|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=24 August 2013|url=http://www.billboard.com/biz/current-boxscore|archiveurl=http://www.webcitation.org/6J7SIekW5?url=http://www.billboard.com/biz/current-boxscore|archivedate=24 August 2013}}</ref> || Believe Tour || align=center|14,587 / 14,587 (100%) ||
+|-
+| August 3 || rowspan=3| [[Beyoncé Knowles|Beyoncé]]<ref name="bb19">{{cite journal|date=October 2, 2013|title=Billboard Boxscore|journal=Billboard|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=October 2, 2013|url=http://www.billboard.com/biz/current-boxscore|archiveurl=http://www.freezepage.com/1380748319NHLHCRDWSJ?url=http://www.billboard.com/biz/current-boxscore|archivedate=October 2, 2013}}</ref> || rowspan=3|[[The Mrs. Carter Show World Tour]] || rowspan=3 align=center|41,907 / 41,907 (100%) ||
+|-
+| August 4 ||
+|-
+| August 5 || <small>Special guest: [[Jay-Z]].<ref>{{cite web |url=http://www.mtv.com/news/articles/1711842/beyonce-jay-z-barclays-center-show.jhtml|title=Jay Z Joins Mrs. Carter Onstage At Final Barclays Show|publisher=MTV News. MTV Networks |first=James|last=Montgomery|date=August 6, 2013|accessdate=August 7, 2013}}</ref></small>
+|-
+| August 25 || {{show|Performers|[[Lady Gaga]]<br>[[Miley Cyrus]] and [[Robin Thicke]] <small>(feat. [[2 Chainz]] & [[Kendrick Lamar]])</small><br>[[Kanye West]]<br>[[Justin Timberlake]] <small>(feat. [['N Sync]])</small><br>[[Macklemore & Ryan Lewis]] <small>(feat. [[Mary Lambert (singer)|Mary Lambert]] & [[Jennifer Hudson]])</small><br>[[Drake (rapper)|Drake]]<br>[[Bruno Mars]]}} || [[2013 MTV Video Music Awards]]<ref>[http://www.mtv.com/ontv/vma/about.jhtml 2013 MTV Video Music Awards - About The Show]</ref> || || <small>Awards ceremony.</small>
+|-
+| August 30 || {{show|Performers|[[Wyclef Jean]]<br>[[Kassav']]<br>Djakout #1<br>[[Tabou Combo]]}} || rowspan=3|Caribbean Fever Music Festival<ref name="bb9"/><ref>[http://www.barclayscenter.com/events/detail/caribbean-fever-music-festival-1 Caribbean Fever Music Festival 2013]</ref> || align=center rowspan=3|8,266 / 20,687 (40%)
+|-
+| August 31 || {{show|Performers|Super Blue<br>[[Bunji Garlin]]<br>[[Fay-Ann Lyons]]<br>Edwin Yearwood<br>Iwer George<br>[[Alison Hinds]]<br>Talpree}}
+|-
+| September 1 || {{show|Performers|[[Damian Marley]]<br>[[Shabba Ranks]]<br>[[I-Octane]]<br>[[Lady Saw]]}}
+|-
+| September 6 ||  [[Depeche Mode]]<ref name="bb10">{{cite journal|date=2 November 2013|title=Billboard Boxscore|journal=Billboard|volume=125|issue=43|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=26 October 2013|url=http://www.billboard.com/biz/current-boxscore|archiveurl=http://www.webcitation.org/6KeTmSNMb?url=http://www.billboard.com/biz/current-boxscore|archivedate=26 October 2013}}</ref> || [[Delta Machine Tour]] || align=center|14,725 / 14,725 (100%) ||
+|-
+| September 7 ||  [[Fall Out Boy]]<ref name="bb9"/> || 2013 Tour || align=center|13,028 / 13,028 (100%) || <small>Special guests: [[Marky Ramone]] and [[Travie McCoy]].<ref>[http://www.nme.com/news/fall-out-boy/72631 Fall Out Boy joined onstage by Marky Ramone for classic Ramones songs in New York ]</ref></small>
+|-
+| September 19 ||  [[Yeah Yeah Yeahs]]<ref name="bb9"/> || 2013 Tour || align=center|5,524 / 7,441 (74%) ||
+|-
+| September 20 ||  [[Vampire Weekend]]<ref name="bb9"/> || 2013 Tour || align=center|11,705 / 13,353 (88%) ||
+|-
+| September 22 || {{show|Performers|[[Chris Brown]]<br>[[Víctor Manuelle]]<br>[[Wisin & Yandel]]<br>[[Enrique Iglesias]]<br>[[Prince Royce]]}} || Megaton Mundial de Polito Vega<ref name="bb9"/><ref>[http://www.livenation.com/events/273628-sep-22-2013-megaton-mundial-de-polito-vega MEGATON MUNDIAL DE POLITO VEGA]</ref> || align=center|6,724 / 8,601 (78%) ||
+|-
+| September 24 ||  [[Lionel Richie]]<ref name="bb9"/> || [[All the Hits All Night Long Tour]] || align=center|6,670 / 6,670 (100%) ||
+|-
+| September 27 ||  [[Atoms for Peace (band)|Atoms for Peace]]<ref name="bb9"/> || 2013 Tour || align=center|11,628 / 12,986 (90%) ||
+|-
+| September 29 ||  [[Michael Bublé]]<ref name="bb16">{{cite journal|date=19 October 2013|title=Billboard Boxscore|journal=Billboard|volume=125|issue=41|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=9 October 2013|url=http://www.billboard.com/biz/current-boxscore|archiveurl=http://www.webcitation.org/6KFSGcYHF?url=http://www.billboard.com/biz/current-boxscore|archivedate=9 October 2013}}</ref> || [[To Be Loved Tour]] || align=center|11,125 / 11,125 (100%) ||
+|-
+| October 2 ||  [[Phoenix (band)|Phoenix]]<ref name="bb9"/> || 2013 Tour || align=center|9,768 / 11,547 (85%) ||
+|-
+| October 5 ||  [[Kaskade]]<ref name="bb9"/> || Atmosphere Tour || align=center|12,967 / 12,967 (100%) || 
+|-
+| October 9 ||  [[Sixto Rodriguez]]<ref name="bb10"/> || 2013 Tour || align=center|6,038 / 6,038 (100%) ||
+|-
+| October 14 ||  [[Nine Inch Nails]]<ref name="bb9"/> || [[Twenty Thirteen Tour]] || align=center|11,854 / 11,854 (100%) ||
+|-
+| October 16 ||  [[Selena Gomez]]<ref name="bb9"/> || [[Stars Dance Tour]] || align=center|11,175 / 12,873 (87%) ||
+|-
+| October 18 || rowspan=2| [[Pearl Jam]]<ref name="bb9">{{cite journal|date=23 November 2013|title=Billboard Boxscore|journal=Billboard|volume=125|issue=47|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=23 November 2013|url=http://www.billboard.com/biz/current-boxscore|archiveurl=http://www.webcitation.org/6LLBJpTyo?url=http://www.billboard.com/biz/current-boxscore|archivedate=23 November 2013}}</ref> || rowspan=2|[[Lightning Bolt Tour]] || rowspan=2 align=center|32,516 / 32,516 (100%) ||
+|-
+| October 19 || 
+|-
+| October 21 ||  [[Eros Ramazzotti]]<ref name="bb9"/> || NOI World Tour || align=center|5,856 / 5,856 (100%) ||
+|-
+| October 26 || {{show|Performers|[[Fedde le Grand]]<br>The Mix<br>Sunnery James<br>Ryan Marciano<br>Nic Fanciulli<br>Mr. White}} || Sensation: Ocean of White<ref>[http://www.sensation.com/united-states/en/news/index/939/last-event-info-new-york Last event info Sensation New York]</ref> || align=center| ||
+|-
+| October 28 ||  [[Drake (rapper)|Drake]]<ref name="bb9"/> || [[Would You like a Tour?]] || align=center|14,287 / 14,287 (100%) ||
+|-
+| November 2 || {{show|Performers|[[Kendrick Lamar]] <small>(feat. [[Lil' Kim]])</small><br>[[Schoolboy Q]]<br>[[Trey Songz]] <small>(feat. Fabolous)</small><br>[[2 Chainz]]<br>[[Fabolous]] <small>(feat. Meek Mill & [[Nicki Minaj]])</small><br>[[ASAP Rocky]] <small>(feat. [[ASAP Mob]])</small><br>[[Meek Mill]] <small>(feat. Gourdan, [[Jadakiss]] & Nicki Minaj)</small><br>[[K. Michelle]]<br>[[Big Sean]]<br>[[Sevyn Streeter]]}} || [[WWPR-FM|Power 105.1]] Powerhouse 2013<ref name="bb9"/> || align=center|14,317 / 14,317 (100%) ||
+|-
+| November 6 ||  [[Justin Timberlake]]<ref>{{cite web|archiveurl=http://www.webcitation.org/6LQjCdTCf?url=http://www.billboard.com/biz/current-boxscore|archivedate=November 27, 2013 |url=http://www.billboard.com/biz/current-boxscore|title=Billboard Biz: Current Boxscore|date=November 27, 2013 |accessdate=November 27, 2013 |work=Billboard|publisher=Prometheus Global Media}}</ref> || [[The 20/20 Experience World Tour]] || align=center|14,513 / 14,513 (100%) ||
+|-
+| November 19 || rowspan=2| [[Kanye West]]<ref name="bb12">{{cite web|archiveurl=http://www.webcitation.org/6MAUmEIcq?url=http://www.billboard.com/biz/current-boxscore|archivedate=27 December 2013|url=http://www.billboard.com/biz/current-boxscore|title=Billboard Biz: Current Boxscore|date=25 December 2013|accessdate=27 December 2013|work=Billboard|publisher=Prometheus Global Media}}</ref> || rowspan=2|[[The Yeezus Tour]] || rowspan=2 align=center|25,062 / 25,062 (100%) ||
+|-
+| November 20 || 
+|-
+| November 21 ||  [[Alejandro Fernández]]<ref name="bb12"/> || Confidencias Tour || align=center|4,422 / 7,312 (60%) ||
+|-
+| December 8 || rowspan=2| [[Pink (singer)|Pink]]<ref name="bb23">{{cite web|archiveurl=http://www.webcitation.org/6PF7WHkSw|archivedate=May 1, 2014 |url=http://www.billboard.com/biz/current-boxscore|title=Billboard Biz: Current Boxscore|date=May 1, 2014 |accessdate=May 1, 2014 |work=Billboard|publisher=Prometheus Global Media}}</ref> || rowspan=2|[[The Truth About Love Tour]] || rowspan=2 align=center|32,965 / 32,965 (100%) ||
+|-
+| December 9 || 
+|-
+| December 11 ||  [[Andrea Bocelli]]<ref name="bb21">{{cite web|archiveurl=http://www.webcitation.org/6N11n6cKr|archivedate=January 30, 2014 |url=http://www.billboard.com/biz/current-boxscore|title=Billboard Biz: Current Boxscore|date=January 29, 2014 |accessdate=January 30, 2014 |work=Billboard|publisher=Prometheus Global Media}}</ref> || 2013 Tour || align=center|10,223 / 10,223 (100%) ||
+|-
+| December 13 ||  [[MGMT]]<ref name="bb21"/> ||  || align=center|6,310 / 7,309 (86%) ||
+|-
+| December 14 ||  [[Queens of the Stone Age]]<ref name="bb21"/> || 2013 Tour || align=center|8,864 / 10,903 (81%) ||
+|-
+| December 17 ||  [[John Mayer]]<ref name="bb21"/> || 2013 Tour || align=center|9,967 / 13,090 (76%) || <small>Special guest: [[Katy Perry]].<ref>[http://www.nydailynews.com/entertainment/music-arts/katy-perry-joins-john-mayer-stage-first-ever-live-performance-love-duet-article-1.1551571 Katy Perry joins John Mayer on stage for first-ever live performance of ‘Who You Love’]</ref></small>
+|-
+| December 19 || rowspan=2| Beyoncé<ref name="bb20">{{cite journal|date=January 18, 2014|title=Billboard Boxscore|journal=Billboard|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=January 8, 2014|url=http://www.billboard.com/biz/current-boxscore|archiveurl=http://www.webcitation.org/6MTrh5UB3|archivedate=January 8, 2014}}</ref> || rowspan=2|The Mrs. Carter Show World Tour || rowspan=2 align=center|27,760 / 27,760 (100%) || 
+|-
+| December 22 || 
+|-
+| December 26 || [[Pitbull (rapper)|Pitbull]]<ref name="bb21"/> || || align=center|8,529 / 12,047 (71%) ||
+|-
+| December 31 || [[Billy Joel]]<ref name="bb20"/> || 2013 New Year's Eve Concert || align=center|16,859 / 16,859 (100%) ||
+|}
+
+=== 2014 ===
+{| class="wikitable" cellpadding="3" style="text-align: left; font-size: 95%;" width=95%
+|-
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Date
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Main performer(s)
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tour / Concert name
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tickets sold
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Additional notes
+|-
+| January 12 || rowspan=2| [[Jay-Z]]<ref name="bb22">{{cite journal|date=March 9, 2014|title=Billboard Boxscore|journal=Billboard|location=New York City, New York|publisher=Prometheus Global Media|issn=0006-2510|accessdate=February 27, 2014|url=http://www.billboard.com/biz/current-boxscore|archiveurl=http://www.webcitation.org/6Nhek8YaF|archivedate=February 27, 2014}}</ref> || rowspan=2|[[Magna Carter World Tour]] || rowspan=2 align=center|26,079 / 26,079 (100%) ||  
+|-
+| January 13 ||
+|-
+| February 1 || {{show|Performers|[[Red Hot Chili Peppers]]<br>[[New Politics (band)|New Politics]]<br>[[MS MR]]<br>[[J Roddy Walston and the Business]]<br>Basic Vacation}} || [[WFAN (AM)|WFAN]]'s Big Hello to Brooklyn<ref name="bb22"/> || align=center|14,697 / 14,967 (100%)
+|-
+| February 5 || {{show|Performers|[[The Flaming Lips]]<br>[[The Fray]]<br>[[Cake (band)|Cake]]<br>[[Colbie Caillat]]<br>[[Tegan and Sara]]<br>[[Cold War Kids]]<br>[[Lauryn Hill]]<br>[[Imagine Dragons]]}} || [[Amnesty International]] Bringing Human Rights Home<ref name="bb22"/> || align=center|9,788 / 10,646 (92%) ||
+|-
+| February 13 || {{show|Performers|[[Keith Sweat]]<br>[[K-Ci & JoJo]]<br>[[Jagged Edge (group)|Jagged Edge]]<br>[[Al B. Sure!]]<br>[[Carl Thomas (singer)|Carl Thomas]]<br>[[Christopher Williams (singer)|Christopher Williams]]<br>[[Case (singer)|Case]]<br>[[El DeBarge]]}} || Ladies Night R&B Extravaganza<ref name="bb22"/> || align=center|6,088 / 6,088 (100%)
+|-
+| February 15 ||  [[Marc Anthony]] || [[Vivir Mi Vida World Tour]] || align=center|16,964 / 16,964 (100%) ||
+|-
+| March 7 ||  [[The Avett Brothers]]<ref name="bb23">{{cite web|url=http://www.billboard.com/biz/current-boxscore |title=Current Boxscore |publisher=Webcistation.org |accessdate=2014-05-14 |deadurl=unfit |archiveurl=http://www.webcitation.org/6PRcykRde |archivedate=May 9, 2014 }}</ref> || 2014 Tour || align=center|11,139 / 11,139 (100%) ||
+|-
+| March 31 ||  [[Black Sabbath]]<ref name="bb25">{{cite web |url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp |title=Billboard Boxscore :: Current Scores|date=June 18, 2014|work=Billboard |publisher=Prometheus Global Media|archiveurl=http://www.webcitation.org/6QQlU7EKg |archivedate=June 18, 2014 |accessdate=June 18, 2014}}</ref> || [[Black Sabbath Reunion Tour|Reunion Tour]] || align=center|12,988 / 14,061 (92%) ||
+|-
+| April 10 || {{show|Performers|[[Peter Gabriel]] <small>(feat. [[Chris Martin]] and [[Youssou N'Dour]])</small><br>[[Cat Stevens]]<br>[[Carrie Underwood]]<br>[[Bonnie Raitt]]<br>[[Emmylou Harris]]<br>[[Sheryl Crow]]<br>[[Stevie Nicks]]<br>[[Bruce Springsteen]] and the [[E Street Band]] <small>(feat. [[David Sancious]] and [[Vini Lopez]])</small><br>[[Hall & Oates]]<br>[[Nirvana (band)|Nirvana]] <small>(feat. [[Joan Jett]], [[Kim Gordon]], [[St. Vincent (musician)|St. Vincent]] and [[Lorde]])</small>}} || 2014 [[Rock and Roll Hall of Fame]] Induction Ceremony<ref>[http://www.billboard.com/articles/news/6049354/rock-hall-fame-ceremony-wraps-with-worthy-performances-hatchets-buried Rock Hall Ceremony Wraps With Worthy Performances, Hatchets Buried]</ref> || ||
+|-
+| May 9 ||  [[Cher]]<ref name="bb24">{{cite web |url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp |title=Billboard Boxscore :: Current Scores|date=May 28, 2014|work=Billboard |publisher=Prometheus Global Media|archiveurl=http://www.webcitation.org/6Pukilqd9?url=http://www.billboard.com/biz/current-boxscore|archivedate=May 28, 2014 |accessdate=May 28, 2014}}</ref>  || [[Dressed to Kill Tour (Cher)|Dressed to Kill Tour]] || align=center|14,309 / 14,309 (100%) ||
+|-
+| June 7 || {{show|Performers|[[Willie Colón]]<br>[[Jerry Rivera]]<br>[[Andy Montañez]]<br>[[Eddie Santiago]]<br>[[Tito Rojas]]<br>[[Frankie Negrón]]<br>[[Lalo Rodríguez]]<br>[[Raulín Rosendo]]<br>[[Huey Dunbar]]<br>[[George Lamond]]<br>[[Tony Vega]]<br>[[La India]]}} || The Best of the 90’s Salsa Concert<ref>[http://www.barclayscenter.com/events/detail/lo-mejor-de-los-90s-the-best-of-the-90s-salsa-concert Lo Mejor De Los 90’s / The Best of the 90’s Salsa Concert]</ref><ref name="bb25"/> || align=center|9,385 / 12,789 (73%) ||
+|-
+| June 28 ||  [[Avicii]] || [[True Tour]] ||align=center|12,604 / 12,604 (100%) ||
+|-
+| July 24 || rowspan=2| [[Katy Perry]]<ref>{{cite web |url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp |title=Billboard Boxscore : Current Scores|date=September 17, 2014|work=Billboard |archiveurl=http://www.webcitation.org/6Sf6HyzVO?url=http://www.billboard.com/biz/current-boxscore  |archivedate=September 17, 2014 |accessdate=September 17, 2014}}</ref> || rowspan=2|[[The Prismatic World Tour]] || rowspan=2 align=center|27,823 / 27,823 (100%) ||
+|-
+| July 25 ||
+|-
+| August 6 ||  [[John Legend]] || 2014 North American Tour || ||
+|-
+| August 22 || rowspan=3| [[Arcade Fire]] || rowspan=3|Reflektor Tour || rowspan=3| ||
+|-
+| August 23 ||
+|-
+| August 24 ||
+|-
+| September 9 || {{show|Performers|[[Jennifer Lopez]]<br>[[Usher (entertainer)|Usher]]<br>[[Pitbull (rapper)|Pitbull]]<br>[[Miranda Lambert]]<br>[[Jennifer Hudson]]<br>[[Luke Bryan]]<br>[[Nicki Minaj]]<br>[[Duran Duran]]<br>[[Kiss (band)|Kiss]]<br>[[The Band Perry]]<br>[[Rita Ora]]<br>[[Nico & Vinz]]<br>[[Afrojack]]<br>[[Magic!]]}} || Fashion Rocks<ref>[http://www.barclayscenter.com/events/detail/fashion-rocks-2014 Fashion Rocks 2014]</ref> || align=center| ||
+|-
+| September 14 ||  [[Luke Bryan]] || [[That's My Kind of Night Tour]] ||align=center|13,528 / 13,528 (100%) ||
+|-
+| September 19 ||  [[The Weeknd]] || King of the Fall Tour || ||
+|-
+| September 23 || rowspan=2| [[The Black Keys]] || rowspan=2|Turn Blue World Tour || rowspan=2| || 
+|-
+| September 24 ||
+|-
+| October 9 ||  [[Judas Priest]] || [[Redeemer of Souls Tour]] || align=center|4,258 / 5,708 (75%)||
+|-
+| October 16 || {{show|Performers|[[Rick Ross]]<br>[[2 Chainz]]<br>[[DMX (rapper)|DMX]]<br>[[Fabolous]]<br>[[Foxy Brown (rapper)|Foxy Brown]]<br>[[Jhené Aiko]]<br>[[Onyx (group)|Onyx]]<br>[[Method Man]]<br>[[Redman (rapper)|Redman]]<br>[[Ashanti (singer)|Ashanti]]<br>[[Ja Rule]]<br>[[Warren G]]<br>[[EPMD]]<br>[[Jeremih]]}} || [[Def Jam Recordings]] 30th Anniversary Concert || ||
+|-
+| October 27 ||  [[Demi Lovato]]<ref>{{cite web |url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp |title=Billboard Boxscore :: Current Scores |date=January 21, 2014 |work=Billboard |publisher=Prometheus Global Media |archiveurl=http://www.webcitation.org/6VkrCexJa?url=http://www.billboard.com/biz/current-boxscore |archivedate=January 21, 2015 |accessdate=January 21, 2014}}</ref> || [[Demi World Tour]] ||align=center|11,409 / 12,482 (91%)||
+|-
+| December 14 ||  Justin Timberlake<ref>{{cite web |url=http://billboard.biz/bbbiz/charts/currentboxscore.jsp |title=Billboard Boxscore :: Current Scores|date=January 14, 2015|work=Billboard |publisher=Prometheus Global Media|archiveurl=http://www.webcitation.org/6VaF6mqAS?url=http://www.billboard.com/biz/current-boxscore|archivedate=January 14, 2015 |accessdate=January 14, 2015}}</ref> || The 20/20 Experience World Tour || align=center|14,461 / 14,461 (100%) ||
+|-
+| December 31 ||  [[Elton John]]<ref>{{cite web |url=http://www.billboard.biz/bbbiz/charts/currentboxscore.jsp |title=Billboard Boxscore :: Current Scores |date=January 21, 2014 |work=Billboard |publisher=Prometheus Global Media |archiveurl=http://www.webcitation.org/6VkrCexJa?url=http://www.billboard.com/biz/current-boxscore |archivedate=January 21, 2015 |accessdate=January 21, 2014}}</ref> || [[Follow the Yellow Brick Road Tour]] || align=center|16,470 / 16,470 (100%)|| 
+|}
+
+=== 2015 ===
+{| class="wikitable" cellpadding="3" style="text-align: left; font-size: 95%;" width=85%
+|-
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Date
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Main performer(s)
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tour / Concert name
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tickets sold
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Additional notes
+|-
+| February 16 || [[Chris Brown]], [[Trey Songz]]<ref>{{cite web |url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=June 3, 2015 |publisher=[[Prometheus Global Media]] |work=[[Billboard (magazine)|Billboard]] |archiveurl=http://www.webcitation.org/6Z1Fi8ODV?url=http://www.billboard.com/biz/current-boxscore |archivedate=June 3, 2015}},</ref> || [[Between The Sheets Tour]] || align=center|12,271 / 13,837 (89%) ||
+|-
+| March 26 || [[Neil Diamond]] || Neil Diamond Tour 2015 || align=center|11,920 / 12,179 (98%) ||
+|-
+| April 12 || [[Stevie Wonder]] || [[Songs in the Key of Life Tour]] || align=center|14,159 / 14,159 (100%) ||
+|-
+| May 26 || [[The Who]] || [[The Who Hits 50!]] || align=center|11,800 / 13,536 (87%) ||
+|-
+| May 31 || [[Ed Sheeran]] || [[x Tour (Ed Sheeran tour)|x Tour]] || align=center|14,341 / 14,341 (100%) ||
+|-
+| June 13 || {{show|Performers|[[Oscar D'León]]<br>[[Tito Nieves]]<br>[[La India|India]]<br>[[Ismael Miranda]]<br>[[Domingo Quiñones]]<br>[[José Alberto "El Canario"]]<br>[[Tony Vega]]<br>[[Ray Sepúlveda]]<br>[[Johnny Rivera]]<br>[[Frankie Negrón]]<br>[[Eddie Santiago]]<br>[[Willie Colón (musician)|Willie Colón]]<br>[[Elvis Crespo]]<br>Charlie Aponte}} || Combinación Perfecta Salsa Concert || align=center|8,149 / 8,149 (100%) ||
+|-
+| June 14 || {{show|Performers|[[Ne-Yo]]<br>[[Ludacris]]<br>[[Cash Cash]]}} || [[WBMP (FM)|92.3 AMP]] Radio Amplify 2015 || align=center|4,837 / 5,468 (88%) ||
+|-
+| June 17 || [[Barry Manilow]] || One Last Time! Tour || align=center|10,891 / 12,647 (86%) ||
+|-
+| June 29 || [[Bette Midler]]<ref>{{cite web |url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=July 1, 2015 |publisher=[[Prometheus Global Media]] |work=[[Billboard (magazine)|Billboard]] |archiveurl=http://www.webcitation.org/6ZhcPGkoP?url=http://www.billboard.com/biz/current-boxscore |archivedate=July 1, 2015}}</ref> || [[Divine Intervention Tour]] || align=center|8,128 / 8,128 (100%) ||
+|-
+| June 30 || [[Imagine Dragons]] || [[Smoke + Mirrors Tour]] || align=center|12,598 / 12,598 (100%) ||
+|-
+| July 10 || rowspan=3| [[Romeo Santos]] || rowspan=3|Formula Vol. 2 Tour || rowspan=3 align=center|45,285 / 45,285 (100%) ||
+|-
+| July 11 ||
+|-
+| July 12 ||
+|-
+| July 26 || [[Nicki Minaj]]<ref>{{cite web|url=http://www.billboard.com/biz/current-boxscore|title=Current Boxscore|date=September 1, 2015|work=[[Billboard (magazine)|Billboard]]|archiveurl=http://www.webcitation.org/6bE5QD7j6?url=http://www.billboard.com/biz/current-boxscore|archivedate=September 1, 2015|accessdate=September 1, 2015}}</ref> || [[The Pinkprint Tour]] || align=center|14,186 / 14,186 (100%) ||
+|-
+| August 11 || [[Yes (band)|Yes]] & [[Toto (band)|Toto]] || Toto & Yes 2015 Summer Tour || align=center|4,500 / 6,285 (72%) ||
+|-
+| August 12 || [[Mötley Crüe]] || [[Mötley Crüe Final Tour]]|| align=center|11,474 / 11,474 (100%) ||
+|-
+| September 12 || [[Scorpions (band)|Scorpions]] || [[Get Your Sting and Blackout World Tour]] || ||
+|-
+| September 19 || [[Madonna (entertainer)|Madonna]]<ref>{{cite web|url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=October 6, 2015 |work=Billboard |archiveurl=http://www.webcitation.org/6c6BFhAKd?url=http://www.billboard.com/biz/current-boxscore |archivedate=October 7, 2015 |accessdate=October 6, 2015}}</ref> || [[Rebel Heart Tour]] || align=center|14,258 / 14,258 (100%) ||
+|-
+| September 26 || rowspan=2| [[Ariana Grande]]<ref>{{cite web |url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=November 18, 2015 |publisher=[[Prometheus Global Media]] |work=[[Billboard (magazine)|Billboard]] |archiveurl=http://www.webcitation.org/6d7SEExDn?url=http://www.billboard.com/biz/current-boxscore |archivedate=November 18, 2015}}</ref> ||rowspan=2| [[The Honeymoon Tour]] ||rowspan=2 align=center|21,510 / 21,510 (100%)||
+|-
+| September 27 ||
+|-
+| October 8 || [[Marc Anthony]] & [[Carlos Vives]] || UNIDO2 Tour || align=center|12,191 / 13,828 (89%) ||
+|-
+| October 20 || {{show|Performers|[[Jay Z]]<br>[[Beyoncé]]<br>[[Usher (singer)|Usher]]<br>[[Nicki Minaj]]<br>[[Lil Wayne]]<br>[[T.I.]]<br>[[Rick Ross]]<br>[[Nick Jonas]]<br>[[Meek Mill]]<br>[[French Montana]]<br>[[Travis Scott]]<br>[[Damian Marley]]<br>[[Indochine (band)|Indochine]]<br>[[Thomas Rhett]]<br>[[Fabolous]]<br>[[Cipha Sounds|DJ Cipha Sounds]]<br>DJ Reflex<br>[[Alessia Cara]]<br>[[Bas (rapper)|Bas]]<br>[[Benjamin Booker]]||<br>[[Flatbush Zombies]]<br>[[Justine Skye]]}} || [[Tidal (service)|TIDAL X]]: 1020 Amplified by HTC || align=center|15,671 / 15,671 (100%) ||
+|-
+| October 22 || {{show|Performers|[[Kendrick Lamar]]<br>[[Future (rapper)|Future]]<br>[[Big Sean]]<br>[[Fetty Wap]]<br>[[Meek Mill]]<br>[[Jeremih]]<br>[[Jidenna]]<br>[[Omarion]]}} || [[WWPR-FM|Power 105.1]] Powerhouse 2015 || align=center|13,651 / 13,651 (100%) ||
+|-
+| November 18 || rowspan=2| [[The Weeknd]]<ref>{{cite web |url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=April 27, 2016 |work=Billboard |archiveurl=http://www.webcitation.org/6h59vK2Cz?url=http://www.billboard.com/biz/current-boxscore |archivedate=April 27, 2016 |accessdate=April 27, 2016}}</ref> || rowspan=2| [[The Madness Fall Tour]] || rowspan=2 align=center|30,420 / 30,420 (100%) ||
+|-
+| November 19 || 
+|-
+| December 31 || [[Jimmy Buffett]] || Workin' n' Playin' Tour || align=center|11,258 / 11,258 (100%) ||
+|}
+
+=== 2016 ===
+{| class="wikitable" cellpadding="3" style="text-align: left; font-size: 95%;" width=85%
+|-
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Date
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Main performer(s)
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tour / Concert name
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tickets sold
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Additional notes
+|-
+|January 27 || [[Muse (band)|Muse]]<ref>{{cite web |url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=April 26, 2016 |work=Billboard |archiveurl=http://www.webcitation.org/6h40IYWXs?url=http://www.billboard.com/biz/current-boxscore|archivedate=April 26, 2016 |accessdate=April 26, 2016}}</ref> || [[Drones World Tour]] || align=center|14,916 / 14,916 (100%)||
+|-
+| March 27 || rowspan=2| [[Rihanna]]<ref>{{cite web |url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=May 17, 2016 |work=Billboard |archiveurl=http://www.webcitation.org/6ha5aUoUV?url=http://www.billboard.com/biz/current-boxscore|archivedate=May 17, 2016 |accessdate=May 17, 2016}}</ref> ||rowspan=2| [[Anti World Tour]] || rowspan=2 align=center|26,100 / 28,010 (93%)||
+|-
+|March 30 ||
+|-
+|April 12 || [[Duran Duran]] || Paper Gods on Tour || || 
+|-
+|April 23 || rowspan=2| [[Bruce Springsteen]] and the [[E Street Band]]<ref>{{cite web |url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=April 28, 2016 |work=Billboard |archiveurl=http://www.webcitation.org/6h9Hny2aD?url=http://www.billboard.com/biz/current-boxscore |archivedate=April 30, 2016 |accessdate=April 30, 2016}}</ref> || rowspan=2| [[The River Tour 2016]] || rowspan=2 align=center| 33,248 / 33,248 (100%)||
+|-
+|April 25 ||
+|-
+| May 4 || rowspan=2| [[Justin Bieber]]<ref>{{cite web |url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=May 24, 2016 |work=Billboard |archiveurl=http://www.webcitation.org/6hkZsafUT?url=http://www.billboard.com/biz/current-boxscore|archivedate=May 24, 2016 |accessdate=May 24, 2016}}</ref> ||rowspan=2| [[Purpose World Tour]] || rowspan=2 align=center| 29,470 / 29,470 (100%) ||
+|-
+| May 5 ||
+|-
+
+| May 17|| [[The 1975]] ||American Tour|| ||
+|- 
+|June 1 || [[Selena Gomez]]<ref>{{cite web |url=http://www.billboard.com/biz/current-boxscore |title=Billboard Boxscore :: Current Scores |date=June 14, 2016|work=Billboard |archiveurl=http://www.webcitation.org/6iHh3ce6k?url=http://www.billboard.com/biz/current-boxscore|archivedate=June 15, 2016|accessdate=June 15, 2016}}</ref> || [[Revival Tour]] || align=center|11,582 / 12,970 (89%) ||
+|-
+| July 8 || [[Demi Lovato]] and [[Nick Jonas]] || [[Future Now Tour]] || align=center|11,456 / 12,556 (91%) ||
+|-
+| July 26 || [[G-Eazy]] and [[Logic]] || Endless Summer Tour || ||
+|-
+|-
+| July 28 || [[Laura Pausini]] || [[Pausini Stadi Tour 2016]] || ||
+|-
+| August 11 || rowspan=2| [[Barbra Streisand]] ||rowspan=2| [[Barbra: The Music, The Mem'ries, The Magic]] || rowspan=2 align=center| 29,250 / 29,250 (100%) ||
+|-
+| August 13 ||
+|-
+| August 17 || [[Blink-182]] || [[California Tour]] || ||
+|-
+| October 7 || [[Blake Shelton]] || Blake Shelton 2016 Tour || ||
+|-
+| October 25 || [[Sia Furler|Sia]] || [[Nostalgic for the Present Tour]] || align=center|12,134 / 12,134 (100%) ||
+|-
+| November 19 || [[Keith Urban]] || [[Ripcord World Tour]] || align=center|10,664 / 12,883 (82%) ||
+|-
+|}
+
+=== 2017 ===
+{| class="wikitable" cellpadding="3" style="text-align: left; font-size: 95%;" width=85%
+|-
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Date
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Main performer(s)
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tour / Concert name
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Tickets sold
+! style="text-align:center;{{NBA color cell|Brooklyn Nets|border=2}};| Additional notes
+|-
+| January 20 || [[Twenty One Pilots]] || [[Emotional Roadshow World Tour]] || align=center|12,867 / 13,074 (98%) ||
+|-
+| January 27 || [[Eric Church]] || Holdin' My Own Tour || ||
+|-
+| March 15 || [[Green Day]] || [[Revolution Radio Tour]] || ||
+|-
+| March 30 || [[Charlie Wilson (singer)|Charlie Wilson]] || In It To Win It Tour || ||
+|-
+| March 30 || [[Bastille]] || Wild, Wild World Tour || ||
+|-
+| May 6 || Barbra Streisand ||Barbra: The Music, The Mem'ries, The Magic || ||
+|-
+| June 6 || rowspan="2"|The Weeknd || rowspan="2"|[[Starboy: Legend of the Fall Tour]] ||rowspan="2"| ||
+|-
+| June 7 ||
+|-
+| June 27 || [[New Kids on the Block]], [[Boyz II Men]], and [[Paula Abdul]] || [[The Total Package Tour]] || ||
+|-
+| July 21 || rowspan="2"|[[Iron Maiden]] || rowspan="2"|[[The Book of Souls World Tour]] ||rowspan="2"| ||
+|-
+| July 22 ||
+|-
+| July 28 || [[Queen + Adam Lambert]] || [[Queen + Adam Lambert Tour 2017]] || ||
+|-
+| August 16 || [[Shawn Mendes]] || [[Illuminate World Tour]] || ||
+|-
+| September 11 || rowspan="2"|[[Roger Waters]] || rowspan="2"|[[Us + Them Tour]] ||rowspan="2"| ||
+|-
+| September 12 ||
+|-
+| September 29 || rowspan="3"|Ed Sheeran || rowspan="3"|[[÷ Tour]] ||rowspan="3"| ||
+|-
+| September 30 ||
+|-
+| October 1 ||
+|-
+| October 4 || Bruno Mars || [[24K Magic World Tour]] || ||
+|-
+| October 27 || [[Tim McGraw]] and [[Faith Hill]] || [[Soul2Soul The World Tour 2017]] || ||
+|-
+| October 28 || [[Fall Out Boy]] || [[The Mania Tour]] || ||
+|-
+| November 15 || [[Janet Jackson]] || [[State of the World Tour]] || ||
+|-
+|}
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+* [http://www.barclayscenter.com/events-tickets/event-calendar Events Calendar] at [[Barclays Center]]
+* [https://www.kwhen.com/answer/Barclays%20Center/Events/all Full List of Upcoming Events at Barclays Center]
+
+[[Category:American music-related lists|Concerts at Barclays Center]]
+[[Category:Lists of events in the United States|Barclays Center]]
+[[Category:Barclays]]
+[[Category:Entertainment events in the United States|Barclays Center]]
+[[Category:Events in New York City]]
+[[Category:Lists of concerts and performances|Barclays Center]]
+[[Category:New York City-related lists|Concerts at Barclays Center]]

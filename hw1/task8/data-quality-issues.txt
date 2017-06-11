@@ -1,0 +1,4 @@
+During the homework I’ve discovered following anomalies in the data:
+- Missing values are replaced with 99. e.g. 182/10k of plate states are '99' valued.
+- There are non-valid plate id’s like ‘BLANKPLATE’ or ‘LOVELULU’ or ’N/A’ and some of the id’s seem not valid too like ‘MF10W’. I don’t know the exact rules for a plate id to be valid, but I think there are some mistakes here.
+- I’ve written another map-reduce tuple to count number of blank entries in parking-violations which is 2.242.294. So 2 million entries out of 22.308.374 are blank, so 10% of the data missing. For the open-violations.csv data the proportion becomes 494549/5933340, which is around 9%.
